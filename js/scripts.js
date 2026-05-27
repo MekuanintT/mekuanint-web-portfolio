@@ -1,13 +1,4 @@
-/*-----------------------------------------------------------------------------------
 
-    Theme Name: Zain
-    Theme URI: http://
-    Description: The Multi-Purpose Onepage Template
-    Author: UI-ThemeZ
-    Author URI: http://themeforest.net/user/UI-ThemeZ
-    Version: 1.0
-
------------------------------------------------------------------------------------*/
 
 
 $(function() {
