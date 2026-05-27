@@ -1,40 +1,4 @@
-/*-----------------------------------------------------------------------------------
 
-    Theme Name: Zain
-    Theme URI: http://
-    Description: The Multi-Purpose Onepage Template
-    Author: his7am
-    Author URI: http://themeforest.net/user/his7am
-    Version: 1.0
-
------------------------------------------------------------------------------------*/
-
-/* === Helper Classes - All Style In The Main File(Style.css) === */
-
-/* ----------------------------------------------------------------
-
-    == Table Of Content
-
-        - Typography
-        - text color
-        - font-weight
-        - font-size
-        - line-height
-        - text-transform
-        - letter-spacing
-        - Overlay Effect Bg image
-        - margin-top
-        - margin-bottom
-        - padding-top
-        - padding-bottom
-        - Preloader
-
----------------------------------------------------------------- */
-
-
-/*-------------------------------------------------------
-          [ Typography ]
--------------------------------------------------------*/
 
 h1 {
   font-size: 55px;
