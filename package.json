@@ -1,0 +1,13 @@
+{
+  "name": "mekuanint-web-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Portfolio and quote-request site for Mekuanint Tewende (static site + one Vercel serverless function).",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/test-api.mjs",
+    "set-url": "node scripts/set-site-url.mjs",
+    "serve": "node scripts/dev-server.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
